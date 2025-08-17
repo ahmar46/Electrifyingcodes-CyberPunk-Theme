@@ -1,0 +1,33 @@
+         {
+  "name": "electrifying-codes-theme",
+  "displayName": "Electrifying Codes Theme 001",
+  "description": "A dark neon cyberpunk-inspired theme created by Electrifying Codes",
+  "version": "0.0.1",
+  "publisher": "electrifyingcodes",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Electrifying Codes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ElectrifyingCodes-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/electrifying-codes-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "neon",
+    "cyberpunk",
+    "electrifyingcodes"
+  ]
+}
