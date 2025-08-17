@@ -8,8 +8,8 @@ Created by [Electrifying Codes](https://instagram.com/electrifyingcodes).
 - Bright strings & functions
 - Stylish keywords for readability
 
-## 📸 Preview
-(You can add screenshots of the theme here)
+<!-- ## 📸 Preview
+(You can add screenshots of the theme here) -->
 
 ## 🚀 Installation
 1. Open VS Code
@@ -18,8 +18,8 @@ Created by [Electrifying Codes](https://instagram.com/electrifyingcodes).
 
 ## ❤️ Follow Me
 - Instagram: [@electrifyingcodes](https://instagram.com/electrifyingcodes)
-- Threads: [@electrifyingcodes](https://www.threads.net/@electrifyingcodes)
-- LinkedIn: [Ahmar](https://linkedin.com/in/ahmar46)
+- Threads: [@electrifyingcodes](https://www.threads.com/@electrifyingcodes)
+- LinkedIn: [@ahmar46](https://linkedin.com/in/ahmar46)
 
 ---
-Enjoy coding with **Electrifying vibes** ⚡
+Enjoy coding with **Electrifying vibes**
