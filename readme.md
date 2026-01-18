@@ -22,4 +22,4 @@ Created by [Electrifying Codes](https://instagram.com/electrifyingcodes).
 - LinkedIn: [@ahmar46](https://linkedin.com/in/ahmar46)
 
 ---
-Enjoy coding with **Electrifying vibes**
+Enjoy coding with **Electrifying Codes**
